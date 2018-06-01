@@ -3,7 +3,11 @@
 
 # Synopsis
 Using basic OOP principles, this program creates an array list of students and manipulates it to calculate average grades and flag object attributes not entered correctly.
+Program written using IntelliJ IDEA Community Edition 2018.1.2
 
+#Setup Instructions
+To run, download zip file of project and extract contents. Open Java IDE, choose to open project from "File" menu, and select unzipped folder.
+The main method exists inside the "roster" Java file. Run the "roster" file.
 
 Program Output:
 Student ID: 1	First Name: John	Last Name: Smith	Age: 20	Grades: [88, 79, 59]
